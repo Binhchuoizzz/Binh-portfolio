@@ -29,7 +29,7 @@ const Hero = () => {
                               />
                          </h1>
                          <p className="lead max-w-[467px] mb-7">Tôi là kỹ sư dữ liệu và phát triển web, đam mê áp dụng công nghệ để giải quyết các vấn đề thực tiễn. Với kỹ năng phân tích dữ liệu, lập trình Python, học máy, cùng kinh nghiệm xây dựng ứng dụng web hiện đại (React, Django), tôi luôn sẵn sàng học hỏi và tạo ra giá trị thông qua các giải pháp tối ưu hóa và đổi mới.</p>
-                         <a   className="flex flex-row gap-12" href="/assets/it.pdf">
+                         <a   className="flex flex-row gap-12" href="/assets/Binh_CV.pdf">
                               <button className="btn btn-accent mb-8"><b>My CV Here! </b></button>
                          </a>
                          {/* stats */}

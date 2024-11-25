@@ -64,7 +64,7 @@ const About = () => {
                                    <i className="text-lg">Mình từng là sinh viên chuyên ngành An Toàn Thông Tin.</i>
                               </div>
                               <p className="max-w-[600px] mx-auto xl:mx-0 mb-2">
-                                   Với nền tảng chuyên môn n toàn thông tin kiêm nhà phát triển phần mềm với đam mê xây dựng các hệ thống bảo mật và hiệu quả. Với nền tảng vững chắc trong bảo mật hệ thống, quản lý rủi ro, mã hóa dữ liệu, và phát triển phần mềm (Python, JavaScript, cùng các framework như Node.js, Django), tôi đã thiết kế và triển khai các giải pháp an toàn để bảo vệ dữ liệu và ứng dụng. Tôi luôn tìm kiếm những thách thức mới, kết hợp giữa kỹ năng bảo mật và lập trình để mang lại giá trị cao nhất, đồng thời đảm bảo tính bảo mật và tối ưu hóa hiệu suất cho hệ thống.
+                                   Với nền tảng chuyên môn an toàn thông tin kiêm nhà phát triển phần mềm với đam mê xây dựng các hệ thống bảo mật và hiệu quả. Với nền tảng vững chắc trong bảo mật hệ thống, quản lý rủi ro, mã hóa dữ liệu, và phát triển phần mềm (Python, JavaScript, cùng các framework như Node.js, Django), tôi đã thiết kế và triển khai các giải pháp an toàn để bảo vệ dữ liệu và ứng dụng. Tôi luôn tìm kiếm những thách thức mới, kết hợp giữa kỹ năng bảo mật và lập trình để mang lại giá trị cao nhất, đồng thời đảm bảo tính bảo mật và tối ưu hóa hiệu suất cho hệ thống.
                               </p>
                               {/* info item */}
                               <div className="flex flex-col lg:flex-row gap-8 xl:gap-12 max-w-max
